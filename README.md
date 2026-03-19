@@ -1,2 +1,3 @@
-# hyper-booking-system-2tl5
-Automated issue comment bot repository
+# Hyper Booking System 2Tl5
+
+Automated issue comment bot repository.
